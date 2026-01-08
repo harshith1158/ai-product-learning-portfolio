@@ -1,4 +1,4 @@
-Roadmap
+Roadmap : This roadmap outlines a phased delivery plan aligned with business goals and technical readiness.
 
 Phase 0 — Discovery & Data Collection (Weeks 0–2)
 - Inventory sources: KBs, transcripts, ticketing system, product docs.
