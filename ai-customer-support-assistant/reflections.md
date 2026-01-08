@@ -1,4 +1,4 @@
-Reflections
+Reflections : This section captures learning, risks, and continuous improvement opportunities.
 
 Risks & considerations:
 - Data quality: garbage in -> garbage out. Ensure KB and transcript cleanliness.
