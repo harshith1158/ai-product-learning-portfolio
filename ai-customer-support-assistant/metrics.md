@@ -1,4 +1,4 @@
-Metrics & Success Criteria
+Metrics & Success Criteria : Metrics define how success is measured across customer experience, reliability, and business performance.
 
 Primary metrics:
 - First Response Time (FRT): median time to first meaningful response (target: <1 minute for automated responses, <15 minutes human SLA).
