@@ -1,4 +1,4 @@
-Features
+Features : Features were prioritized based on impact on customer experience, operational cost, and technical feasibility.
 
 Core (MVP):
 - Retrieval-Augmented Generation (RAG) for grounded answers with source citations.
