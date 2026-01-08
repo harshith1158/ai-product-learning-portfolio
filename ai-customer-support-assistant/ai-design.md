@@ -1,4 +1,4 @@
-AI Design "This section explains how AI is used responsibly and effectively to solve the core product problem.
+AI Design "This section explains how AI is used responsibly and effectively to solve the core product problem."
 
 
 High-level architecture:
