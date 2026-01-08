@@ -1,4 +1,4 @@
-Personas
+Personas :These personas were created to guide product decisions and prioritize features based on real user needs.
 
 - Customer (Alice)
   - Description: End-user seeking help (technical or billing).
