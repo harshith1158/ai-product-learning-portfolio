@@ -55,4 +55,24 @@ Tertiary: Support managers and compliance teams
 - GDPR and PII compliance
 - High availability and fault tolerance
 - Secure access control and audit logs
+## 8. AI System Overview
+The AI assistant uses a retrieval-augmented generation (RAG) architecture to produce accurate, context-aware responses. User queries are embedded, matched against the company knowledge base, and combined with system prompts before being sent to the language model.
+
+If confidence is low or content is sensitive, the system escalates the request to a human agent.
+## 9. Risks & Mitigations
+
+| Risk | Impact | Mitigation |
+|------|--------|------------|
+Hallucinated answers | Loss of trust | Use retrieval with citations, fallback to human |
+Privacy violations | Legal risk | PII redaction, strict access controls |
+Model drift | Reduced quality | Continuous evaluation & retraining |
+Over-automation | Poor CX | Human-in-the-loop for sensitive queries |
+Latency spikes | Poor UX | Caching & monitoring |
+## 10. Release Plan
+
+MVP: AI chat assistant with top 20 support intents  
+Phase 2: Agent assist & conversation summaries  
+Phase 3: Multichannel support & analytics dashboard  
+Phase 4: Enterprise security, compliance & scaling
+
 
