@@ -27,3 +27,17 @@ Tertiary: Support managers and compliance teams
 - Achieve 30% ticket deflection within 6 months
 - Improve CSAT by 20%
 - Increase agent productivity by 25%
+## 6. Functional Requirements
+- AI chatbot for handling common queries
+- Retrieval-based responses grounded in company knowledge
+- Ticket classification and routing
+- Agent assist panel with suggested replies
+- Conversation summarization for handoff
+- Feedback loop for continuous improvement
+## 7. Non-Functional Requirements
+- Response latency < 3 seconds
+- 99.9% uptime for core services
+- GDPR and PII compliance
+- High availability and fault tolerance
+- Secure access control and audit logs
+
