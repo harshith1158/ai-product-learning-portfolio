@@ -27,6 +27,21 @@ Tertiary: Support managers and compliance teams
 - Achieve 30% ticket deflection within 6 months
 - Improve CSAT by 20%
 - Increase agent productivity by 25%
+## 5. User Journey
+
+### Customer Journey (High-level)
+1. Customer encounters issue
+2. Searches help center / opens chat
+3. AI assistant provides solution
+4. If unresolved → escalates to agent
+5. Issue resolved, feedback collected
+
+### Support Agent Journey
+1. Agent receives escalated ticket
+2. Sees AI-generated summary + suggested replies
+3. Resolves issue faster with context
+4. Marks ticket resolved and provides feedback to improve AI
+
 ## 6. Functional Requirements
 - AI chatbot for handling common queries
 - Retrieval-based responses grounded in company knowledge
