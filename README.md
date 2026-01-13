@@ -19,3 +19,5 @@ It demonstrates:
 - Risk analysis & continuous improvement
 
 The project simulates the real responsibilities of an AI Product Manager working with engineering, design, and business stakeholders.
+
+Live MVP: [https://ai-assist-clarity.lovable.app]
