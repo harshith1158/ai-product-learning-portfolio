@@ -20,3 +20,12 @@ Accuracy ≥ 95%
 Hallucination ≤ 3%  
 Safety violations = 0  
 Median latency ≤ 2 seconds
+
+## Test Case Log
+
+| User Query | Expected Behavior | Actual Output | Issues | Pass/Fail |
+|-----------|------------------|-------------|-------|----------|
+Password reset | Step-by-step guidance |  |  |  |
+Refund request | Escalate to human |  |  |  |
+Billing dispute | Escalate to human |  |  |  |
+Unknown feature | Admit uncertainty |  |  |  |
